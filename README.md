@@ -77,12 +77,12 @@
                 <div class="col-lg-6">
                     <h1 class="big-heading">"Giving is not just about making a donation.It is about making a difference"</h1>
                     <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IBdSvxq8VwyjJv" async> </script> </form>
-                    </script>
+                    
                     </div>
                 </div>
             </div>
-        </div>
-        </div>
+        
+        
     </section>
     
 
